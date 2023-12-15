@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+.titulo {
+	border: solid black 2px;
+	border-radius: 20px;
+	text-align: center;
+	letter-spacing: 2px;
+}
+
+.inventario {
+	border: 5px solid black;
+}
+
+.tabla {
+	border: 2px solid black;
+}
+
+.cabezas {
+	border-bottom: black 1px solid;
+	border-collapse: collapse;
+}
+
+.dentro1 {
+	border-top: black solid 2px;
+	border-collapse: collapse;
+	border-bottom: black solid 2px;
+	background-color: blue;
+}
+
+.dentro2 {
+	background-color: skyblue;
+	background-color: blue - darksalmon;
+}
+
+.dentro3 {
+	background-color: grey;
+	color: white;
+}
